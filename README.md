@@ -17,6 +17,13 @@ The individual files are downloaded to a directory and then converted to a text 
 ![image](https://github.com/kwd2/aurora1/assets/15908030/e6b6db0d-ccfd-4c7d-b475-b976cec5de05)
 
 
+The text file can be opened in an editor.    Every section begins with the same format below.
+
+![image](https://github.com/kwd2/aurora1/assets/15908030/d4e14af4-cf77-440b-9719-8e5b22903a19)
+
+There are 262 seperate sections in the file being examined below
+
+![image](https://github.com/kwd2/aurora1/assets/15908030/700fe598-a9fa-4407-a2bb-29cb9bce9ae6)
 
 
 

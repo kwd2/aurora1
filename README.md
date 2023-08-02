@@ -25,6 +25,15 @@ There are 262 seperate sections in the file being examined below
 
 ![image](https://github.com/kwd2/aurora1/assets/15908030/700fe598-a9fa-4407-a2bb-29cb9bce9ae6)
 
+The data is given sperated into nine distinct "EAL DESCRIPTIONS" sections
+
+![image](https://github.com/kwd2/aurora1/assets/15908030/8e559b9e-96b7-4613-bbe2-2df790f867ea)
+
+The data is read with the code below and each time the "DEPT" line changes, the data for the previous block is printied out.
+
+
+![image](https://github.com/kwd2/aurora1/assets/15908030/157c0b95-caec-4c42-9602-b60d13a0ab72)
+
 
 
 

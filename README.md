@@ -34,6 +34,12 @@ The data is read with the code below and each time the "DEPT" line changes, the 
 
 ![image](https://github.com/kwd2/aurora1/assets/15908030/157c0b95-caec-4c42-9602-b60d13a0ab72)
 
+The DEPARTMENT TOTAL dollar amounts are converted to integers for building the graph
+
+![image](https://github.com/kwd2/aurora1/assets/15908030/5827a9f1-87cb-434c-b19c-95cd11f1a583)
+
+Further data can be extracted for each page of text.   For now, we can build a graph using the data extracted in each printout block above.
+
 
 
 

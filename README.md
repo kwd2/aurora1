@@ -40,12 +40,13 @@ The DEPARTMENT TOTAL dollar amounts are converted to integers for building the g
 
 Further data can be extracted for each page of text.   For now, we can build a graph using the data extracted in each printout block above.
 
-The dollat amounts for each unique EAL code type are agregated first: 
+The dollar amounts for each unique EAL code type are agregated below.  The columns are the total dollars, the average dollars, and the # of report sections contributing dollars. 
 
 ![image](https://github.com/kwd2/aurora1/assets/15908030/7cf715c9-0b82-4350-b0da-aee46b933a6b)
 
-The Dept and Div information can be added to the graph:
+The FUND information can be added to the graph below.  Adding the highlighted line of code causes the second order graph to accumulate and printout as shown.
 
+![image](https://github.com/kwd2/aurora1/assets/15908030/3e107f90-cd0d-4012-a808-4f681e0ec4e0)
 
 
 
